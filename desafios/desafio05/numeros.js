@@ -5,7 +5,7 @@ while (true) {
     if(numero == 0) {
         document.write(numero);
         break;
-    }else {
+    } else {
         document.write(numero);
         document.write(" - ");
     }
